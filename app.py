@@ -17,7 +17,7 @@ st.divider()
 
 
 # датафрейм название валюты + код валюты
-df = pd.read_csv('currency_data.csv', index_col=0)
+df = pd.read_csv('data/currency_data.csv', index_col=0)
 
 # функция для запроса актуальных курсов валют
 def req_currency(curr_from, curr_to, price):
