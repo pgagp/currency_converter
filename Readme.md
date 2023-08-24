@@ -7,13 +7,13 @@
 Сервис позволяет конвертировать валюту с фотографий ценников в выбранную вами валюту. Поддерживается 161 мировая валюта.
 
  1. Выберите валюту для конвертации
- ![step1](https://i.imgur.com/vYS8u4z.png)
+ <img src="https://i.imgur.com/vYS8u4z.png" width="500">
  
  2. Сделайте или загрузите фото
- ![step2](https://i.imgur.com/56epkYA.jpg)
+<img src="https://i.imgur.com/56epkYA.jpg" width="300">
  
  3. Готово! 
- ![done](https://i.imgur.com/7ygGojW.jpg)
+ <img src="https://i.imgur.com/7ygGojW.jpg" width="300">
 
 ## Реализация
 
